@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "qwerty2015.aternos.me",
+    "ip": "vampire135607.aternos.me",
     "port": 22945,
-    "version": "",
+    "version": "1.21.3",
     "try-creative": false
   },
   "position": {
