@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "jackass00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vampire135607.aternos.me",
-    "port": 22945,
+    "ip": "tcx1.aternos.me",
+    "port": 39992,
     "version": "1.21.3",
     "try-creative": false
   },
