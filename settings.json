@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tcx1.aternos.me",
-    "port": 39992,
+    "ip": "everlandtest.aternos.me:27516",
+    "port": 27516,
     "version": "1.21.3",
     "try-creative": false
   },
